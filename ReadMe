@@ -1,0 +1,16 @@
+Embarking on a financial analysis & reporting project, I began by diving deep into the data—understanding its structure within the database was crucial. Here’s a snapshot of my journey:
+
+1. Data Understanding: Before anything else, it was essential to grasp how the data was organizedand stored. This foundational knowledge guided the entire analysis process.
+
+2. Data Importation: I brought this structured data into Tableau, where I meticulously prepared comprehensive financial statements,including profit and loss accounts and balance sheets.
+
+3. Advanced Calculations: Utilizing Tableau’s robust calculated fields feature, I computed key financial metrics such as Gross Profit, Net Profit, PBIT, Operating Profit, and EBITDA.
+    This not only enhanced the depth of the analysis but also the usability of the data.
+
+4. Chart Preparation: Each metric was then visualized in individual charts, making the data more accessible and understandable at a glance.
+
+5. Dashboard Creation: The final step involved assembling a dynamic dashboard. This dashboard not only housed all the individual charts but wasalso enhanced with regional,
+   country, monthly, and quarterly filters. These filters allow for a comprehensive and versatile view of the data, enabling insights at the click of a button.
+
+This project was a fantastic reminder of the power of Tableau in transforming raw data into actionable insights. Whether you're a seasoned finance professional or just starting,
+the ability to analyze and present data effectively is key.
